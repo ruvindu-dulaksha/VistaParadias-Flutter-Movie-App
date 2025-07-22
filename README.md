@@ -11,7 +11,7 @@ A Flutter-based movie application that provides users with the latest movies, TV
 
 ## Screenshots 📸
 
-_Add screenshots of your app here to showcase its UI and features._
+![App Screenshot](screenshot.png)
 
 ## Installation 🚀
 
