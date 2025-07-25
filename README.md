@@ -10,8 +10,7 @@ A Flutter-based movie application that provides users with the latest movies, TV
 - **Movie Details**: View detailed information about movies, including cast, synopsis, and ratings.
 
 ## Screenshots 📸
-
-![App Screenshot](screenshot.png)
+<img src="screenshot.png" alt="App Screenshot" width="300"/>
 
 ## Installation 🚀
 
