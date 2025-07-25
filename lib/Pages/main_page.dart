@@ -11,7 +11,7 @@ class MainPage extends StatefulWidget {
 }
 
 class _MainPageState extends State<MainPage> {
-  List<Movie> _movie = [];
+  final List<Movie> _movie = [];
   int _currentPage = 1;
   bool _isLoading = false;
   bool _hasMore = true;

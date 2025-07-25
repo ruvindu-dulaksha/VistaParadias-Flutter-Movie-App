@@ -1,5 +1,3 @@
-import 'package:flutter/foundation.dart';
-
 class Movie {
   final bool adult;
   final String? backdropPath; // nullable
